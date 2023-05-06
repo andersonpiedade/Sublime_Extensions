@@ -6,7 +6,7 @@
 <br>
 <br>
 
-### **Lista dos pacotes**
+### **Lista dos pacotes no sublime**
 
 - A File Icon: Serve para especificar o ícone de cada linguagem no sublime.
 - Dracula Color theme
